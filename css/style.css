@@ -690,8 +690,8 @@ span {
     color: var(--main-color);
 }
 
-/* ANIMATION RELOAD AND ACROLL */
-.animate {
+/* ANIMATION RELOAD AND ACROLL */ /* HOZIRCHA KERAK EMAS   */
+/* .animate {
     position: absolute;
     top: 0;
     right: 0;
@@ -723,7 +723,7 @@ span {
     transition-delay: (.3s * var(--i));
     width: 0;
 
-}
+} */
 
 
 /* BREAKPOINTS responsiv media */
